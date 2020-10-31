@@ -3,7 +3,7 @@ Hey there! 👋...
 
 John PK Erbynn ("Pkay", for short) is his name. Pkay is currently an experienced Software Engineer at Turntabl after previously completing his BSc in Computer Science at University of Cape Coast, Cape Coast, Ghana. Pkay is based in Accra, Ghana (West Africa).
 
-Pkay extremely passionate about programming and he usually spends his days coding something cool and/or learning new stuffs. He has demonstrated history of working internationally in the Software Industry. A team player, detailed-oriented, responsible and committed engineer. Pkay has designed, implemented, and tested back-end and front-end applications using a variety of programming languages and technologies. 
+Pkay is extremely passionate about programming and he usually spends his days coding something cool and/or learning new stuffs. He has demonstrated history of working internationally in the Software Industry. A team player, detailed-oriented, responsible and committed engineer, Pkay has designed, implemented, and tested back-end and front-end applications using a variety of programming languages and technologies. 
 Pkay also enjoys learning as much as teaching to help others fulfill their potential and to deepen his knowledge as well. You can find more about this on his Github Page [here](https://github.com/pkErbynn/learn-web-technologies).
 
 If Pkay is not behind keyboard, Pkay will be doing one of these: skating, musicking or hiking.
