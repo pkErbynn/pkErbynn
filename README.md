@@ -17,9 +17,7 @@ John Erbyn is an experienced and self-sufficient Software Engineer at Turntabl
 - **Technology Stack:** Java[Spring Boot], C#[Blazor WASM, MVC, CLI], TypeScript[Angular], Python[Flask]
 
 - **UI Design:** Photoshop
-
 - **Databases:** PostgreSQL, SQLite, MySQL
-
 - **API Specs:** REST
 - **DevOps:** Git, Docker, Terraform, Travis CI, GitHub Actions, Heroku, Azure[AD], AWS[S3, EC2, RDS]
 - **Other Skills:** HTML/CSS, Bootstrap
