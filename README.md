@@ -1,7 +1,5 @@
-# Hi there 👋
-
 ## Bio
-Hey there!... 
+Hey there! 👋... 
 
 John PK Erbynn ("Pkay", for short) is his name. Pkay is currently an experienced Software Engineer at Turntabl after previously completing his BSc in Computer Science at University of Cape Coast, Cape Coast, Ghana. Pkay is based in Accra, Ghana (West Africa).
 
