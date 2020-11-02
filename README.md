@@ -26,6 +26,7 @@ John Erbyn is an experienced and self-sufficient Software Engineer at Turntabl
 
 
 ## Connect with me :)
+If you happen to like my profile, follow me and let's connect...
 [<img align="left" alt="erbynn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="erbynn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="erbynn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
