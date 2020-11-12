@@ -6,7 +6,7 @@
 </a>
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pkErbynn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pkErbynn&show_icons=true&count_private=true&theme=radical")](https://github.com/anuraghazra/github-readme-stats)
 
 ## Bio
 Hey there! 👋... 
