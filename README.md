@@ -1,14 +1,13 @@
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pkErbynn&show_icons=true&count_private=true&theme=radical"  width=100%
   height=auto />
-<br>
-<br>
+
 </a>
 
 ## Bio
 Hey there! 👋... 
 
-John PK Erbynn ("Pkay", for short) is his name. Pkay is currently an experienced Software Engineer at Turntabl after previously completing his BSc in Computer Science at University of Cape Coast, Cape Coast, Ghana. Pkay is based in Accra, Ghana (West Africa).
+I am John PK Erbynn ("Pkay", for short). Pkay is a Software Engineer at Turntabl after previously completing his BSc in Computer Science at University of Cape Coast, Cape Coast, Ghana. Pkay is based in Accra, Ghana (West Africa).
 
 Pkay is extremely passionate about programming and he usually spends his days coding something cool and/or learning new stuffs. He has demonstrated history of working internationally in the Software Industry. A team player, detailed-oriented, responsible, committed and self-motivated engineer, Pkay has designed, implemented, and tested back-end and front-end applications using a variety of programming languages and technologies. 
 Pkay also enjoys learning as much as teaching to help others fulfill their potential and to deepen his knowledge as well. You can find more about this on his Github Page [here](https://github.com/pkErbynn/learn-web-technologies).
