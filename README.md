@@ -4,8 +4,9 @@
 <br>
 <br>
 </a>
-<br>
-<br>
+
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pkErbynn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Bio
 Hey there! 👋... 
