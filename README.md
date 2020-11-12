@@ -3,7 +3,6 @@
        width=100% alt="Erbynn's GitHub Stats" />
 </a>
 <!-- theme: radical -->
-
 <br>
 <br>
 
