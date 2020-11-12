@@ -1,14 +1,9 @@
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pkErbynn&show_icons=true&count_private=true&theme=radical"  width=80%
-  alt="erbynn's GitHub Stats" />
-<br>
-<br>
-</a>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pkErbynn&show_icons=true&count_private=true&theme=radical")](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/pkErbynn/pkErbynn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pkErbynn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="erbynn's GitHub Stats" height=auto />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?
+                         username=pkErbynn&
+                         show_icons=true&
+                         count_private=true&
+                         theme=radical"  width=90% alt="Erbynn's GitHub Stats" />
 </a>
 
 ## Bio
