@@ -45,6 +45,11 @@ If you happen to like my profile, follow me and let's connect...
 [twitter]: https://twitter.com/pkerbynn
 [linkedin]: https://www.linkedin.com/in/pkerbynn/
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pkerbynn)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pkerbynn/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pkerbynn)](https://twitter.com/pkerbynn)
+[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pkerbynn/)](https://medium.com/@pkerbynn)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:john.erbynn@gmail.com)
 
 <!--
 **pkErbynn/pkErbynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
