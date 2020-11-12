@@ -45,9 +45,9 @@ If you happen to like my profile, follow me and let's connect...
 [twitter]: https://twitter.com/pkerbynn
 [linkedin]: https://www.linkedin.com/in/pkerbynn/
 <br>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&logoWidth=40)](https://github.com/pkerbynn)
+<br>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pkerbynn)
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pkerbynn/)](https://medium.com/@pkerbynn)
-[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat&labelColor=black&logo=Medium&link=https://medium.com/@pkerbynn/)](https://medium.com/@pkerbynn)
 
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/pkerbynn/)
