@@ -30,7 +30,7 @@ John Erbyn is an experienced and self-sufficient Software Engineer at Turntabl
 - **DevOps:** Git, Docker, Terraform, Travis CI, GitHub Actions, Heroku, Azure[AD], AWS[S3, EC2, RDS]
 - **Other Skills:** HTML/CSS, Bootstrap
 - **Operating Systems:** Windows, Linux
-- **Methodologies:** CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Test-driven Development(TDD), Engineering Best Practices
+- **Methodologies:** CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Test-driven Development(TDD), Engineering Best Practices, Virtual First(Work-from-home) module.
 
 
 ## Connect with me :)
