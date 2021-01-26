@@ -7,7 +7,7 @@
 <br>
 
 ## Bio
-Hey there! 👋... 
+Hey there... ! 👋 
 
 I am John PK Erbynn ("Erbynn" or "Pkay" for short) and I'm a Software Engineer at Turntabl. Currently, I'm based in Accra, Ghana (West Africa).
 
