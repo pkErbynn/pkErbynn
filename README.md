@@ -9,7 +9,7 @@
 ## Bio
 Hey there! 👋... 
 
-I am John PK Erbynn ("Erbynn" or "Pkay" for short) and I'm a Software Engineer at Turntabl. Pkay is based in Accra, Ghana (West Africa).
+I am John PK Erbynn ("Erbynn" or "Pkay" for short) and I'm a Software Engineer at Turntabl. Currently, I'm based in Accra, Ghana (West Africa).
 
 Pkay is extremely passionate about programming and he usually spends his days writing code and/or learning new stuffs with great allacrity. He has demonstrated history of working internationally in the Software Industry. A team player, detailed-oriented, responsible, committed and self-motivated engineer, Pkay has designed, implemented, and tested back-end and front-end applications using a variety of programming languages and technologies. 
 Pkay also enjoys learning as much as teaching to help others fulfill their potential and to deepen his knowledge as well. You can find more about this on his Github Page [here](https://github.com/pkErbynn/learn-web-technologies).
