@@ -47,7 +47,7 @@ If you happen to like my profile, follow me and let's connect...
 <br>
 <br>
 
-[More on my personal website here](https://pkerbynn.github.io/).
+[[Personal Website]](https://pkerbynn.github.io/)
 
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/pkerbynn/)
