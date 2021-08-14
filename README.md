@@ -11,7 +11,7 @@ Hey there... ! 👋
 
 I'm Erbynn ("Erb" for short) - a Software Engineer and currently based in Accra, Ghana (West Africa).
 
-Erb is extremely passionate about programming and he usually spends his days writing code and/or learning new stuffs with great allacrity. He has demonstrated history of working internationally in the Software Industry. A team player, detailed-oriented, responsible, committed and self-motivated engineer, Erbynn has designed, implemented, and tested back-end and front-end applications using a variety of programming languages and technologies.
+Erb is extremely passionate and curious about problem-solving with programming skills. He usually spends his days writing code and/or learning new stuffs with great allacrity. He has demonstrated history of working internationally in the Software Industry. A team player, detailed-oriented, responsible, committed and self-motivated engineer, Erb has designed, implemented, and tested back-end and front-end applications using a variety of programming languages and technologies.
 Erb also enjoys teaching as much as learning to help others fulfill their potential and to deepen his knowledge as well. You can find more about this on his Github Page [here](https://github.com/pkErbynn/learn-web-technologies).
 
 If Erbynn is not behind keyboard, he'll be doing one of these: skating, musicking or hiking.
