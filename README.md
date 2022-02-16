@@ -6,22 +6,21 @@
 <br>
 <br>
 
-## Bio
-Hey there... ! 👋 
+## Hey there, I'm Erbynn (Erb)... ! 👋 
 
-I'm Erbynn - a Software Engineer and currently based in Accra, Ghana (West Africa).
+I'm a Software Engineer and currently based in Accra, Ghana (West Africa).
 
 Erb is extremely passionate and curious about problem-solving with programming skills. He usually spends his days writing code and/or learning new stuffs with great allacrity. He has demonstrated history of working internationally in the Software Industry. A team player, detailed-oriented, responsible, committed and self-motivated engineer, Erb has designed, implemented, and tested back-end and front-end applications using a variety of programming languages and technologies.
-Erb also enjoys teaching as much as learning to help others fulfill their potential and to deepen his knowledge as well. You can find more about this on his Github Page [here](https://github.com/pkErbynn/learn-web-technologies).
+Erb also enjoys teaching as much as learning to help others fulfill their potential and to deepen his knowledge as well. You can find more about this on [my Github Page](https://github.com/pkErbynn/learn-web-technologies).
 
-If Erbynn is not behind keyboard, he'll be doing one of these: skating, musicking or hiking.
+If Erbynn is not behind keyboard, he'll be doing one of these: roller skating, musicking or hiking.
 
 <!--
 John Erbyn is an experienced and self-sufficient Software Engineer at Turntabl
 -->
 
 
-## Languages and Tools
+## Languages and Tools 💼
 - **Technology Stack:**  TypeScript[Angular], Advanced CSS[SASS]  ||  C#/.NET[Blazor WASM, MVC, CLI], Java[Spring Boot], Python[Flask]
 - **Databases:** PostgreSQL, Azure Cosmos DB, SQLite, MySQL
 - **API Specs:** REST
@@ -33,8 +32,8 @@ John Erbyn is an experienced and self-sufficient Software Engineer at Turntabl
 - **Methodologies:** CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Test-driven Development(TDD), Engineering Best Practices, Virtual First(Work-from-home) module.
 
 
-## Connect with me :)
-If you happen to like my profile, follow me and let's connect...
+## Connect with me :) 
+If you happen to like my profile, follow me and let's connect 🤝...
 
 [<img align="left" alt="erbynn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="erbynn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -45,9 +44,9 @@ If you happen to like my profile, follow me and let's connect...
 [linkedin]: https://www.linkedin.com/in/pkerbynn/
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pkerbynn/)](https://medium.com/@pkerbynn)
 <br>
-<br>
 
 [[Personal Website]](https://pkerbynn.github.io/)
+
 
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/pkerbynn/)
