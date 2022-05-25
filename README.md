@@ -19,10 +19,10 @@ If I'm not behind keyboard, I'll be doing one of these: musicking, hiking or rol
 
 ## Skills and Tools 💼
 - **Languages:** C#, JavaScript, TypeScript, Java, Python
-- **Frameworks:** .NET Core (Blazor, EF, LINQ, XUnit, Coverlet), Angular (Jasmine), Spring Boot, Flask
+- **Frameworks:** .NET Core (Blazor, EF, LINQ, XUnit, Coverlet, SignalR), Angular (Jasmine), Spring Boot, Flask
 - **Databases:** PostgreSQL, Azure CosmosDB, SQLite, MySQL
 - **API Specs:** REST
-- **DevOps:** Git, Docker, Codecov, GitHub Actions, Jenkins, Travis CI, Heroku, Terraform, Azure(AD, Blob), AWS(S3, RDS, EC2)
+- **DevOps:** Git/GitHub, Docker, Codecov, GitHub Actions, GitVersion, Jenkins, Travis CI, Heroku, Terraform, Azure(AD, Blob), AWS(S3, RDS, EC2)
 - **Others:** HTML, Bootstrap, CSS, SASS
 - **Operating Systems:** Windows, Linux
 - **IDEs:** IntelliJ, Visual Studio, Visual Studio Code
