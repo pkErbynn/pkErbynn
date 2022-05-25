@@ -8,32 +8,31 @@
 
 ## Hey there, I'm Erbynn (Erb)... ! 👋 
 
-I'm a Software Engineer and currently based in Accra, Ghana (West Africa).
+I'm a Software Engineer with a special focus on dotNet and Angular ecosystem, along with development best practices.
 
-Erb is extremely passionate and curious about problem-solving with programming skills. He usually spends his days writing code and/or learning new stuffs with great allacrity. He has demonstrated history of working internationally in the Software Industry. A team player, detailed-oriented, responsible, committed and self-motivated engineer, Erb has designed, implemented, and tested back-end and front-end applications using a variety of programming languages and technologies.
-Erb also enjoys teaching as much as learning to help others fulfill their potential and to deepen his knowledge as well. You can find more about this on [my Github Page](https://github.com/pkErbynn/learn-web-technologies).
+I'm passionate and curious about problem-solving. I usually spend my days writing code and/or learning new stuff with great allacrity. I've demonstrated history of working internationally with FinTech company in the Software Industry. As a team player, standard-driven, and self-motivated engineer, I've designed, implemented, and tested front-end and server-side applications using diverse technologies.
+I also enjoy [tutoring (in any small way)](https://github.com/pkErbynn/learn-web-technologies) while sharing my knowlegde to help others fulfill their potentials.
 
-If Erbynn is not behind keyboard, he'll be doing one of these: roller skating, musicking or hiking.
-
-<!--
-John Erbyn is an experienced and self-sufficient Software Engineer at Turntabl
--->
+If I'm not behind keyboard, I'll be doing one of these: musicking, hiking or roller skating.
 
 
-## Languages and Tools 💼
-- **Technology Stack:**  TypeScript[Angular], Advanced CSS[SASS]  ||  C#/.NET[Blazor WASM, MVC, CLI], Java[Spring Boot], Python[Flask]
-- **Databases:** PostgreSQL, Azure Cosmos DB, SQLite, MySQL
+
+## Skills and Tools 💼
+- **Languages:** C#, JavaScript, TypeScript, Java, Python
+- **Frameworks:** .NET Core (Blazor, EF, LINQ, XUnit, Coverlet), Angular (Jasmine), Spring Boot, Flask
+- **Databases:** PostgreSQL, Azure CosmosDB, SQLite, MySQL
 - **API Specs:** REST
-- **DevOps:** Git, Docker, Terraform, Travis CI, GitHub Actions, Heroku, Azure[AD], AWS[S3, EC2, RDS]
-- **Other Skills:** HTML, Bootstrap
+- **DevOps:** Git, Docker, Codecov, GitHub Actions, Jenkins, Travis CI, Heroku, Terraform, Azure(AD, Blob), AWS(S3, RDS, EC2)
+- **Others:** HTML, Bootstrap, CSS, SASS
 - **Operating Systems:** Windows, Linux
 - **IDEs:** IntelliJ, Visual Studio, Visual Studio Code
 - **Design:** Mockup, Draw.io, Photoshop
-- **Methodologies:** CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Test-driven Development(TDD), Engineering Best Practices, Virtual First(Work-from-home) module.
+- **Methodologies:** Software Testing, CI/CD, SOLID principles, OOP, Microservices, Observability, Best Practices, Agile, Virtual First(WFH) module.
 
 
-## Connect with me :) 
+## Connect with me 😊 
 If you happen to like my profile, follow me and let's connect 🤝...
+Also, let me know how I can contribute to build innovative and cutting-edge solutions to help your organization achieve its commercial and business goals.
 
 [<img align="left" alt="erbynn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="erbynn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -45,7 +44,7 @@ If you happen to like my profile, follow me and let's connect 🤝...
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pkerbynn/)](https://medium.com/@pkerbynn)
 <br>
 
-[[Personal Website]](https://pkerbynn.github.io/)
+Link to my website: [https://pkerbynn.github.io](https://pkerbynn.github.io/)
 
 
 <!--
