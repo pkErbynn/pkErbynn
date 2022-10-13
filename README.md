@@ -96,6 +96,7 @@ If I'm not behind keyboard, I'll be doing one of these: musicking, hiking or rol
 	<code><img height="40" src="https://i0.wp.com/zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png?resize=387%2C258&ssl=1" alt="Azure DevOps" title="Azure DevOps" /></code>
 	<code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" alt="Jira" title="Jira" /></code>
 	<code><img height="40" src="https://www.seerene.com/hubfs/agile%20SOFTWARE%20DEVELOPMENT.svg" alt="Agile" title="Agile" /></code>
+	<code><img height="40" src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" alt="Linux" title="Linux" /></code>
 </div>
 
 
