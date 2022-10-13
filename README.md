@@ -20,11 +20,12 @@ If I'm not behind keyboard, I'll be doing one of these: musicking, hiking or rol
 
 ## Skills and Tools 💼
 - **Languages:** C#, JavaScript, TypeScript, Java, Python
-- **Frameworks:** .NET Core (Blazor, EF, LINQ, XUnit, Coverlet, SignalR), Angular (Jasmine), Spring Boot, Flask
+- **Frameworks:** .NET Core (Blazor, EF, AutoMapper, LINQ, XUnit, Coverlet, SignalR), Angular (Ag-Grid, Jasmine), Spring Boot, Flask
 - **Databases:** PostgreSQL, Azure CosmosDB, SQLite, MySQL
-- **API Specs:** REST
-- **DevOps:** Git/GitHub, Docker, Codecov, GitHub Actions, GitVersion, Jenkins, Travis CI, Heroku, Terraform, Azure(AD, Blob), AWS(S3, RDS, EC2), OpenTelemetry, Jira, Azure DevOps
-- **UI:** HTML, Bootstrap, CSS, SASS
+- **API Specs:** RESTful
+- **Communications:** HTTP, RabbitMQ, gRPC
+- **DevOps:** Git/GitHub, Docker, Kubernetes, Codecov, GitHub Actions, GitVersion, Jenkins, Travis CI, Heroku, Terraform, Azure(AD, Blob), AWS(S3, RDS, EC2), OpenTelemetry, Jira, Azure DevOps
+- **UI:** HTML, Bootstrap, CSS, SASS, Tailwind
 - **Operating Systems:** Windows, Linux
 - **IDEs:** Visual Studio, Visual Studio Code, IntelliJ
 - **Design:** Mockup, Draw.io, Photoshop
@@ -75,6 +76,7 @@ If I'm not behind keyboard, I'll be doing one of these: musicking, hiking or rol
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass" /></code>
+	<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" title="Tailwind" /></code>
 	<code><img height="40" src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" alt="ChartJs" title="ChartJs" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" /></code>
@@ -92,6 +94,7 @@ If I'm not behind keyboard, I'll be doing one of these: musicking, hiking or rol
 	<code><img height="40" src="https://opentelemetry.io/img/social/logo-wordmark-001.png" alt="OpenTelemetry" title="OpenTelemetry" /></code>
 	<code><img height="40" src="https://i0.wp.com/zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png?resize=387%2C258&ssl=1" alt="Azure DevOps" title="Azure DevOps" /></code>
 	<code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" alt="Jira" title="Jira" /></code>
+	<code><img height="40" src="https://www.seerene.com/hubfs/agile%20SOFTWARE%20DEVELOPMENT.svg" alt="Agile" title="Agile" /></code>
 </div>
 
 
