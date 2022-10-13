@@ -1,6 +1,6 @@
 <a href="https://github.com/pkErbynn/pkErbynn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pkErbynn&show_icons=true&count_private=true&theme=tokyonight" 
-       width=80% alt="Erbynn's GitHub Stats" />
+       width=60% alt="Erbynn's GitHub Stats" />
 </a>
 <!-- theme: radical -->
 <br>
@@ -20,15 +20,13 @@ If I'm not behind keyboard, I'll be doing one of these: musicking, hiking or rol
 
 ## Skills and Tools 💼
 - **Languages:** C#, JavaScript, TypeScript, Java, Python
-- **Frameworks:** .NET Core (Blazor, EF, AutoMapper, LINQ, XUnit, Coverlet, SignalR), Angular (Ag-Grid, Jasmine), Spring Boot, Flask
+- **Frameworks/Libraries:** .NET Core (Blazor, EF, AutoMapper, LINQ, XUnit, Coverlet, SignalR), Angular (Ag-Grid, Jasmine), Spring Boot, Flask
 - **Databases:** PostgreSQL, Azure CosmosDB, SQLite, MySQL
 - **API Specs:** RESTful
 - **Communications:** HTTP, RabbitMQ, gRPC
 - **DevOps:** Git/GitHub, Docker, Kubernetes, Codecov, GitHub Actions, GitVersion, Jenkins, Travis CI, Heroku, Terraform, Azure(AD, Blob), AWS(S3, RDS, EC2), OpenTelemetry, Jira, Azure DevOps
 - **UI:** HTML, Bootstrap, CSS, SASS, Tailwind
-- **Operating Systems:** Windows, Linux
 - **IDEs:** Visual Studio, Visual Studio Code, IntelliJ
-- **Design:** Mockup, Draw.io, Photoshop
 - **Methodologies:** Automated Software Testing, CI/CD, SOLID principles, OOP, Microservices, Observability, Best Practices, Agile.
 
 <div>
@@ -96,6 +94,8 @@ If I'm not behind keyboard, I'll be doing one of these: musicking, hiking or rol
 	<code><img height="40" src="https://i0.wp.com/zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png?resize=387%2C258&ssl=1" alt="Azure DevOps" title="Azure DevOps" /></code>
 	<code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" alt="Jira" title="Jira" /></code>
 	<code><img height="40" src="https://www.seerene.com/hubfs/agile%20SOFTWARE%20DEVELOPMENT.svg" alt="Agile" title="Agile" /></code>
+	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
+	<code><img height="40" src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" alt="Linux" title="Linux" /></code>
 </div>
 
 
