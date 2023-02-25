@@ -96,6 +96,7 @@ If I'm not behind keyboard, I'll be doing one of these: musicking, hiking or rol
 	<code><img height="40" src="https://www.seerene.com/hubfs/agile%20SOFTWARE%20DEVELOPMENT.svg" alt="Agile" title="Agile" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
 	<code><img height="40" src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" alt="Linux" title="Linux" /></code>
+	<code><img height="40" src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo.png" alt="MacOS" title="MacOSX" /></code>
 </div>
 
 
