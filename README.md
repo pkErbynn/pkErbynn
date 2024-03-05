@@ -8,7 +8,7 @@
 
 ## Hey there, I'm Erbynn (Erb)... ! 👋 
 
-I'm a Software Engineer with over 3 years of web development experience, with a special focus on server-side development using C# .NET Core and Angular technologies.
+I'm a Software Engineer with over 5 years of web development experience, with a special focus on server-side development using C# .NET Core and Angular technologies.
 
 I'm passionate and curious about learning and problem-solving with technologies. I usually spend my days writing code and/or learning new stuff with great allacrity. I've demonstrated history of working remotely and delivering delivering effective solutions for world-class international clients (like Morgan Stanley).
 As a team player, standard-driven, and self-motivated engineer, I've designed, implemented, and tested front-end and server-side applications using diverse modern technologies.
